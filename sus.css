@@ -1,0 +1,39 @@
+@media screen and (min-width:1px) and (max-width:1365px) {
+    body{
+        background-color: lightblue;
+    }
+    div {
+        background-color: yellow;
+        width: 250px;
+        height: 100vh;
+        border-radius: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+@media screen and (min-width:1366px) {
+    body{
+        background-color: lightblue;
+    }
+    div {
+        background-color: yellow;
+        width: 1000px;
+        height: 100vh;
+        border-radius: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+@media screen and (min-width:2560px) {
+    body{
+        background-color: lightblue;
+    }
+    div {
+        background-color: yellow;
+        width: 1800px;
+        height: 100vh;
+        border-radius: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
